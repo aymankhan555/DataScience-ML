@@ -14,6 +14,7 @@ This project predicts personality traits using social behavior data from the Kag
 
 ### 📊 Model Performance
 Best F1 Score (SVM): **0.9665**
+Best Accuiricy (XGB): **0.9668**
 
 ---
 
