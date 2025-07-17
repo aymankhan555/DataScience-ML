@@ -1,7 +1,0 @@
-# 🧠 Personality Prediction Based on Social Behavior
-
-This notebook explores a machine learning pipeline for predicting personality traits using social interaction features. It includes:
-- Smart missing value imputation (most frequent for performance)
-- One-hot encoding of categorical variables
-- Model comparisons (XGBoost, Random Forest, CatBoost, SVM)
-- Final predictions using the best-performing model
