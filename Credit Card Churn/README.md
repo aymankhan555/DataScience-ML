@@ -38,7 +38,7 @@ Designed an **interactive dashboard** with 3 pages:
 - KPIs: Total Customers, Attrition Rate, Avg. Credit Limit, Avg. Months on Book.  
 - Breakdown by **Gender, Age, Marital Status, Education, Card Category, Income Group, Relationship Count**.  
 
-![Dashboard Summary](dashboard/background/summary.png)
+![Dashboard Summary](dashboard/pics/summary.png)
 
 #### 📌 Page 2: Prediction & Risk
 - KPI cards for **Predicted Attrition**.  
@@ -46,14 +46,14 @@ Designed an **interactive dashboard** with 3 pages:
 - Table of **High-Risk customers** with demographic & value details.  
 - Feature importance visualization showing top drivers of attrition.  
 
-![Dashboard Prediction](dashboard/background/prediction.png)
+![Dashboard Prediction](dashboard/pics/prediction.png)
 
 #### 📌 Page 3: Customer Profile & Value
 - Segmentation of customers into **High, Medium, Low Value**.  
 - Cross-filter with churn risk to prioritize interventions.  
 - Customer profiling by demographics + product usage.  
 
-![Dashboard Profile](dashboard/background/profile.png)
+![Dashboard Profile](dashboard/pics/profile.png)
 
 ---
 
@@ -90,7 +90,7 @@ Credit Card Churn/
 │
 ├── dashboard/                          
 │   ├── CreditCardDashboard.pbix
-│   └── background/                     
+│   └── pics/                     
 │       ├── summary.png
 │       ├── prediction.png
 │       └── profile.png
